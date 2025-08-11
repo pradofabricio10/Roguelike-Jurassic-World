@@ -23,4 +23,4 @@ Este é um projeto de jogo roguelike, desenvolvido em Python, inspirado no unive
 `pgzrun seu_jogo.py`
 
 ## Autor
-- [@pradofabricio10]
+- @pradofabricio10
